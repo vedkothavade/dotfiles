@@ -2,20 +2,19 @@
 /[[https://www.chezmoi.io][Chezmoi]] is used to manage these./
 * Programs
 ** Window Manger
-+ i3wm
++ [[https://i3wm.org/][i3wm]]
 ** Terminal
-+ Alacritty
-+ ZSH
++ [[https://alacritty.org/][Alacritty]]
++ [[https://www.zsh.org/][ZSH]] with [[https://ohmyz.sh/][oh my zsh]]
 ** Editors
-+ Vim
-+ NeoVim
-+ Doom Emacs
++ [[https://www.vim.org/][Vim]]
++ [[https://neovim.io/][Neovim]]
++ [[https://github.com/doomemacs/doomemacs][Doom Emacs]]
 ** Linux Utilites
-+ SXHKD
-+ Polybar
-+ Picom
-+ Dunst
-+ Picom
++ [[https://github.com/baskerville/sxhkd][sxhkd]]
++ [[https://polybar.github.io/][Polybar]]
++ [[https://github.com/yshui/picom][Picom]]
++ [[https://dunst-project.org/][Dunst]]
 * Credits
 + [[https://axyl-os.github.io/][Axyl OS]] provides defaults
-+ [[https://github.com/NvChad/NvChad][NvChad]] is the NeoVim config
++ [[https://github.com/NvChad/NvChad][NvChad]] is the Neovim config

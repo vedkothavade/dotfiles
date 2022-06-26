@@ -1,14 +1,19 @@
 #+title: Dotfiles
+/Use [[https://www.chezmoi.io][Chezmoi]] to use these./
 * Programs
+** Window AManger
 + i3wm
+** Terminal
 + Alacritty
++ ZSH
+** Editors
 + Vim
 + NeoVim
 + Doom Emacs
+** Linux Utilites
 + SXHKD
 + Polybar
 + Picom
-+ ZSH
 + Dunst
 + Picom
 * Credits

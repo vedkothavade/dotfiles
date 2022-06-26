@@ -1,5 +1,8 @@
 #+title: Dotfiles
 /[[https://www.chezmoi.io][Chezmoi]] is used to manage these./
+* Theme
+[[https://www.nordtheme.com/][Nord]] is the theme is all applications
++ [[https://github.com/EliverLara/Nordic][Nordic GTK Theme]]
 * Programs
 ** Window Manger
 + [[https://i3wm.org/][i3wm]]

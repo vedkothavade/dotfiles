@@ -5,7 +5,7 @@
 + [[https://github.com/EliverLara/Nordic][Nordic GTK Theme]]
 * Programs
 ** Window Manger
-+ [[https://i3wm.org/][i3wm]]
++ [[https://i3wm.org/][i3wm]], specifically the [[https://github.com/Airblader/i3][i3-gaps]] fork
 ** Terminal
 + [[https://alacritty.org/][Alacritty]]
 + [[https://www.zsh.org/][ZSH]] with [[https://ohmyz.sh/][oh my zsh]]

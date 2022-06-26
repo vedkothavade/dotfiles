@@ -1,7 +1,7 @@
 #+title: Dotfiles
 /[[https://www.chezmoi.io][Chezmoi]] is used to manage these./
 * Programs
-** Window AManger
+** Window Manger
 + i3wm
 ** Terminal
 + Alacritty

@@ -17,4 +17,5 @@
 + Dunst
 + Picom
 * Credits
-[[https://axyl-os.github.io/][Axyl OS]] used as a set of defaults
++ [[https://axyl-os.github.io/][Axyl OS]] provides defaults
++ [[https://github.com/NvChad/NvChad][NvChad]] is the NeoVim config

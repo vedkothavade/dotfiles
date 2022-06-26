@@ -1,5 +1,5 @@
 #+title: Dotfiles
-/Use [[https://www.chezmoi.io][Chezmoi]] to use these./
+/[[https://www.chezmoi.io][Chezmoi]] is used to manage these./
 * Programs
 ** Window AManger
 + i3wm
